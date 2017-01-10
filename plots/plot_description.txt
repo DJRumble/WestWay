@@ -1,0 +1,16 @@
+PLOT DESCRIPTION
+
+This document describes how to interpret the plots I have produced.
+
+Dealership plot
+==============
+
+[BAR HEIGHT] Staff progress describes the mean percentage of MODULES of ALL staff, across ALL criteria, per dealership. 
+
+Criteria are made up of up to 30 or so modules and each staff member will have completed x number of them which
+is converted into a percentage. The mean, take across all staff over all criteria makes up the height of this bar. 
+
+[COLOUR SCALE] staff completion describes the mean percentage of ALL staff, across ALL criteria, per dealership, that has achieved completed the accreditation process. By completed 100% of all the modules. ONLY if a staff member has completed 100% 
+of modules achieved accreditation, will the registered on the staff completion scale. 
+
+Viewing the colour scale can be used to to determine whether a dealership is close to hitting its 70% accreditation target or not.itting its 70% accreditation target or not.
